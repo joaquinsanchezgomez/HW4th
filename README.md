@@ -1,5 +1,10 @@
 # 4th Homework
 
+##Team members:
+Collin Rafferty, Lauren Done, Jennifer Lavayen, Hugo Pinto & Joaquin Sanchez Gomez
+
+
+##Objective
 In our group we decided to see which were
 the determinants of the income of the oldest workers, of those 
 between 50 and 65 years of age. 
