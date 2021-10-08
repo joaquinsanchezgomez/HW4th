@@ -19,3 +19,6 @@ This makes sense. As older, people begin to retire and with it their income decr
 However, there are certain characteristics that unfortunately - in addition to age - 
 determine that wages are lower, such as being a woman, being of African descent or Hispanic. 
 The graphs show the regressions for both groups, according to gender.
+
+
+![Results](https://user-images.githubusercontent.com/89624741/136491162-6b2b736c-27ec-4868-8ad5-3a6ef7fc6f2e.png)
